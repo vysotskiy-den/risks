@@ -1,0 +1,5 @@
+- baseline covariance matrix: `baseline_covariance_matrix.csv`
+- baseline mean returns: `baseline_mean_returns.csv`
+- данные для дальнейших расчетов: `baseline_returns.csv`
+- окна для динамики: `windows.csv`
+- готовый baseline frontier: `baseline_frontiers.csv`
